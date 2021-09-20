@@ -1,0 +1,6 @@
+numpy
+pandas
+pytesseract
+opencv-python
+pytesseract
+requests
